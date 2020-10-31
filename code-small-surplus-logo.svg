@@ -9,7 +9,7 @@
   preserveAspectRatio="xMidYMid meet"
   color-interpolation-filters="sRGB"
   class="el-tooltip"
-  style="margin: auto"
+  style="margin: auto; background-color: transparent;"
 >
   <rect
     data-v-1e121de1=""
@@ -17,7 +17,7 @@
     y="0"
     width="100%"
     height="100%"
-    fill="#ffffff"
+    fill="transparent"
     fill-opacity="1"
     class="background"
   ></rect>
